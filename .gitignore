@@ -4,3 +4,9 @@
 
 # CIFAR DATA
 cifar*
+
+# DS Store
+.DS_Store
+
+# Cats and dogs data
+Data/CATS_DOGS/*
