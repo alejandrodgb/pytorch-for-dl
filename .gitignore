@@ -10,3 +10,6 @@ cifar*
 
 # Cats and dogs data
 Data/CATS_DOGS/*
+
+# Images
+*.png
